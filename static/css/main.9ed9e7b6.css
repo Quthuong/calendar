@@ -1,0 +1,2 @@
+.calendar{display:flex;flex-direction:column;font-family:sans-serif;margin:auto;width:80%}.calendar-header{justify-content:space-between;margin-bottom:20px}.calendar-day,.calendar-header{align-items:center;display:flex}.calendar-day{background-color:#f2f2f2;border-radius:50%;color:#444;height:30px;justify-content:center;margin-bottom:5px;margin-right:5px;width:30px}.calendar-day:hover{background-color:#ddd}.calendar-body{display:grid;grid-template-columns:repeat(7,1fr)}
+/*# sourceMappingURL=main.9ed9e7b6.css.map*/

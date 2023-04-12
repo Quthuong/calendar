@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quthuong/calendar/static/css/main.9ed9e7b6.css",
+    "main.js": "/Quthuong/calendar/static/js/main.64a29829.js",
+    "index.html": "/Quthuong/calendar/index.html",
+    "main.9ed9e7b6.css.map": "/Quthuong/calendar/static/css/main.9ed9e7b6.css.map",
+    "main.64a29829.js.map": "/Quthuong/calendar/static/js/main.64a29829.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed9e7b6.css",
+    "static/js/main.64a29829.js"
+  ]
+}
